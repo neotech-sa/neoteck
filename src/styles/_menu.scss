@@ -88,7 +88,7 @@
 	position: fixed;
 	z-index: 9999 !important;
 	width: 100%;
-	background-color: #e614ff;
+	background-color: rgba(17, 95, 201, 0.80);
 	top: 0;
 
 	.main-menu-item ul li a {
@@ -157,7 +157,7 @@
 @media #{$large_mobile} {
 	.navbar-light .navbar-toggler {
 		border-color: transparent;
-		background-color: #ff1481;
+		background-color: rgba(17, 95, 201, 0.80);
 	}
 
 	.navbar-collapse {
@@ -206,7 +206,7 @@
 @media #{$tab_device} {
 	.navbar-light .navbar-toggler {
 		border-color: transparent;
-		background-color: #ff1481;
+		background-color: rgba(17, 95, 201, 0.80);
 	}
 
 	.navbar-collapse {
