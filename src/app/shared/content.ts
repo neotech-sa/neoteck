@@ -20,16 +20,16 @@ export const content = {
            },
            {
              icon: '',
-             header: 'Social Integration',
+             header: 'SEO & Social Integration',
              paragraph: `Integrating your social network profiles with your website to create a seamless customer experience.
       Social media will reduce your overall marketing costs and gain the competitive advantage.`
            },
-           {
-             icon: '',
-             header: 'SEO',
-             paragraph: `We will improve the number of high-quality visits to your website.
-      The more visitors you have to your website the more leads and essentially sales you will generate.`
-           },
+           // {
+           //   icon: '',
+           //   header: 'SEO',
+           //   paragraph: `We will improve the number of high-quality visits to your website.
+           //   The more visitors you have to your website the more leads and essentially sales you will generate.`
+           // },
            {
              icon: '',
              header: 'Digital Advertising',

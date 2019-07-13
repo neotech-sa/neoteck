@@ -7,8 +7,10 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes, {useHash: true})],
+  imports: [
+    RouterModule.forRoot(routes, { useHash: true, anchorScrolling: 'enabled' })
+  ],
   exports: [RouterModule]
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}
 // www.neoteck.co.za	A	 7200	154.0.173.55
