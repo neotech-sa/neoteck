@@ -1,18 +1,18 @@
 /**************** cta part css start ****************/
 .cta_part{
     text-align: center;
-    padding: 132px 0px 74px;
+    padding: 40px 0px 40px;
     @media #{$small_mobile}{
-        padding: 70px 0px 40px;
+        padding: 20px 0px 20px;
     }
     @media #{$large_mobile}{
-        padding: 70px 0px 40px;
+        padding: 40px 0px 40px;
     }
     @media #{$tab_device}{
-        padding: 70px 0px 40px;
+        padding: 40px 0px 40px;
     }
     @media #{$medium_device}{
-        padding: 80px 0px 40px;
+        padding: 20px 0px 20px;
     }
     .cta_part_iner{
         .cta_part_text{
